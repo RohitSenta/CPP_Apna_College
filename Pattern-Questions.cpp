@@ -1,12 +1,11 @@
 // Pattern Questions
 
-
 #include<iostream>
 using namespace std;
 
 int main() {
-    // Rectangle Pattern
 
+    // Rectangle Pattern
     int rows1;
     cout << "rows1 : ";
     cin >> rows1;
@@ -143,4 +142,3 @@ int main() {
     cout << "\n";
     return 0;
 }
-
