@@ -17,7 +17,7 @@ int main(){
         cin >> arr[i];
     }
 
-    const int N = 1e5+2;
+    const int N = 1e6+2;
     int idx[N];
     for(int i=0; i<N; i++){
         idx[i] = -1;
